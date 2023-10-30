@@ -1,0 +1,4 @@
+com/ninja/demo/entity/DemoEntity.class
+com/ninja/demo/DemoRestServiceApplication.class
+com/ninja/demo/jpa/DemoRepository.class
+com/ninja/demo/controller/DemoController.class
